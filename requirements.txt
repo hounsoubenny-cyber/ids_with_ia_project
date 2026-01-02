@@ -1,0 +1,9 @@
+tensorflow>=2.10.0
+scikit-learn>=1.1.0
+numpy>=1.23.0
+optuna>=3.0.0
+dpkt>=1.9.8
+pypcap>=1.2.3
+netifaces>=0.11.0
+joblib>=1.2.0
+dill>=0.3.6
