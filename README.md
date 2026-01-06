@@ -5,8 +5,16 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 
 > Advanced network intrusion detection system combining Deep Learning and Machine Learning for real-time anomaly detection without predefined attack signatures.
+## 🎯 Why This Project?
 
-![IDS Demo](docs/demo.gif)  <!-- Ajoutez un GIF/screenshot -->
+Traditional Intrusion Detection Systems rely on signature-based detection, which fails against zero-day attacks and novel threats. This project takes a different approach:
+
+- **Learn Normal Behavior**: The system studies normal network traffic patterns
+- **Detect Deviations**: Any unusual activity is automatically flagged
+- **Multi-Level Analysis**: Combines packet-level and sequence-level detection
+- **Hybrid Intelligence**: Merges Deep Learning's pattern recognition with ML's efficiency
+
+**Result**: A system that adapts to YOUR network's unique behavior and catches anomalies that traditional IDS would miss.
 
 ---
 
