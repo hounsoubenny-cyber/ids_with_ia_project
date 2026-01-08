@@ -80,8 +80,8 @@ Root/sudo privileges (for network capture)
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/VOTRE_USERNAME/AI-IDS.git
-cd AI-IDS
+https://github.com/hounsoubenny-cyber/ids_with_ia_project.git
+cd ids_with_ia_project
 
 # Create virtual environment
 python3 -m venv venv
