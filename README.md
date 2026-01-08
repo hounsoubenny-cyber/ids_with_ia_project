@@ -307,11 +307,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Hounso Samuel**
+**Hounson Samuel**
 
-- LinkedIn: [votre-profil](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
-- Portfolio: [votre-site.com](https://votre-site.com)
+- LinkedIn: www.linkedin.com/in/benny-hounsou-00a267374
+- Email: hounsoubenny@gmail.com
+- GitHub: https://github.com/hounsoubenny-cyber/
 
 ---
 
