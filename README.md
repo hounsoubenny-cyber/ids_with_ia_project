@@ -112,11 +112,6 @@ CONFIG = {
 }
 ```
 
-#### 3. Specify Network Interface
-```bash
-sudo python main.py --interface eth0
-```
-
 ---
 
 ## 📊 How It Works
